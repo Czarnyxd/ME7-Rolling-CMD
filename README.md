@@ -27,7 +27,7 @@ You can configure:
 Supported activation triggers:
 
 * Cruise Control **SET**
-* Cruise Control **RESUME**
+* Cruise Control **RES**
 * Brake
 
 All configuration is performed directly from the Windows Command Prompt.
