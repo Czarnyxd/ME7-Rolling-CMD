@@ -22,6 +22,23 @@ Full credit for the original Rolling Anti-Lag implementation goes to **madboost*
 
 
 
+### ⚠️ Naming Note
+
+![IMPORTANT](https://img.shields.io/badge/IMPORTANT-NAMING_NOTE-red?style=for-the-badge)
+
+> 🔴 **Please note:** The `V2` name used in this project was chosen **by mistake** and does **not** refer to the original version numbering used by madboost.
+>
+> This project is actually based on madboost's **[`rollingv3.php`](https://github.com/madboost/me7-Rolling-Antilag/blob/main/rollingv3.php)**.
+>
+> While developing my modified version, I added several features to the original implementation, including **interactive terminal configuration** and the ability to **change the activation trigger**. During development, I accidentally named my modified script **Rolling V2**, and the name remained as the project evolved.
+>
+> In other words:
+>
+> **madboost `rollingv3.php` → modified/extended by me → accidentally named `Rolling V2`**
+>
+> The `V2` designation therefore refers only to the name of **my modified project** and should not be interpreted as an official version number or as a predecessor to madboost's `rollingv3.php`.
+
+
 
 
 # 🚀 ME7 Rolling Anti-Lag CMD V2
