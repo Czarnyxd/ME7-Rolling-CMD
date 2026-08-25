@@ -1,3 +1,29 @@
+## 🔗 Original Project
+
+This project is a **modified and extended version** of the original ME7 Rolling Anti-Lag implementation created by **madboost**.
+
+The original project provided the foundation for the Rolling Anti-Lag logic used here.
+This version builds on that work by adding dynamic memory allocation, Launch Control detection, execution chaining, extended configuration, automatic verification, and additional tooling.
+
+<p align="center">
+  <a href="https://github.com/madboost/me7-Rolling-Antilag">
+    <img src="https://img.shields.io/badge/Original_Project-me7--Rolling--Antilag-181717?style=for-the-badge&logo=github" alt="Original ME7 Rolling Anti-Lag">
+  </a>
+  &nbsp;
+  <a href="https://github.com/madboost">
+    <img src="https://img.shields.io/badge/Original_Author-madboost-181717?style=for-the-badge&logo=github" alt="madboost GitHub">
+  </a>
+</p>
+
+> **Original author:** [madboost](https://github.com/madboost)
+> **Original repository:** [madboost/me7-Rolling-Antilag](https://github.com/madboost/me7-Rolling-Antilag)
+
+Full credit for the original Rolling Anti-Lag implementation goes to **madboost**. ❤️
+
+
+
+
+
 # 🚀 ME7 Rolling Anti-Lag CMD V2
 
 A modern **Rolling Anti-Lag installer and configurator** for **Bosch ME7 / ME7.5 ECUs**, running entirely from the Windows Command Prompt (CMD).
