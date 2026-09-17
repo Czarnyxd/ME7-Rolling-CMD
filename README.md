@@ -312,3 +312,35 @@ If you find this project useful, please consider giving it a ⭐ **Star** on Git
 Every star helps support the project and motivates further development.
 
 Happy tuning! 🚗💨
+
+
+---
+
+## ❤️ Want to say thank you?
+
+If this project helped you and you would like to show your appreciation, **there is no need to support me financially**.
+
+Instead, if you are willing and able, please consider making a voluntary donation to organizations helping children and people fighting serious illnesses.
+
+<p align="center">
+
+<a href="https://www.siepomaga.pl/">
+  <img src="https://img.shields.io/badge/Siepomaga.pl-SUPPORT-ff4f81?style=for-the-badge" alt="Support Siepomaga.pl">
+</a>
+
+  
+
+<a href="https://cancerfighters.pl/">
+  <img src="https://img.shields.io/badge/Cancer%20Fighters-SUPPORT-e30613?style=for-the-badge" alt="Support Cancer Fighters">
+</a>
+
+</p>
+
+<p align="center">
+  <b>Thank you for using my project. ❤️</b><br>
+  If it helped you, consider helping someone who truly needs it.<br>
+  Even a small contribution can make a meaningful difference.
+</p>
+
+---
+
